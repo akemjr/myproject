@@ -1,1 +1,6 @@
 hello is it working now ? or you want me to explain again ?
+
+This  is a an added line to test git
+
+Another new line
+
